@@ -10,7 +10,7 @@
 
 ### Veja o projeto em ação
 
-[Clique aqui](https://matheus-honorato.github.io/jogoDaForca/)
+[Clique aqui](https://matheus-honorato.github.io/jogo-da-forca/)
 
 # Tecnologias utilizadas
 - HTML
