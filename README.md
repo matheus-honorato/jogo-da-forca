@@ -5,12 +5,12 @@
 
 ### Como usar
 
-Ao acessar a página, você deve clicar em iniciar o jogo e utilizar o teclado para tentar acertar a letra correta.
+  Ao acessar a página, você deve clicar em iniciar o jogo e utilizar o teclado para tentar acertar a letra correta.
 
 
 ### Veja o projeto em ação
-https://matheus-honorato.github.io/jogoDaForca/
 
+[Clique aqui](https://matheus-honorato.github.io/jogoDaForca/)
 
 # Tecnologias utilizadas
 - HTML
