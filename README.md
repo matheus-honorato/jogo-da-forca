@@ -8,7 +8,7 @@
   Ao acessar a página, você deve clicar em iniciar o jogo e utilizar o teclado para tentar acertar a letra correta.
 
 
-### Veja o projeto em ação
+# Veja o projeto em ação
 
 [Clique aqui](https://matheus-honorato.github.io/jogoDaForca/)
 
